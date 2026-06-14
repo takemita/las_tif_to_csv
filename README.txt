@@ -1,11 +1,5 @@
 Plugin Builder Results
 
-Your plugin LasTifToCsv was created in:
-    C:\Users\takes\AppData\Roaming\QGIS\QGIS3\profiles\default\python\plugins\las_tif_to_csv
-
-Your QGIS plugin directory is located at:
-    C:/Users/takes/AppData/Roaming/QGIS/QGIS3/profiles/default/python/plugins
-
 What's Next:
 
   * Copy the entire directory containing your new plugin to the QGIS plugin
