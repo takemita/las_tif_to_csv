@@ -8,7 +8,7 @@
                              -------------------
         begin                : 2026-06-13
         copyright            : (C) 2026 by takemita
-        email                : takeshi_mitarai@yahoo.co.jp
+        email                : 
         git sha              : $Format:%H$
  ***************************************************************************/
 
