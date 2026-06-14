@@ -7,7 +7,7 @@ qgisMinimumVersion=3.28
 description=Convert LAS point cloud and GeoTIFF raster data to CSV.
 version=1.0.0
 author=Takeshi Mitarai
-email=takeshi_mitarai@yahoo.co.jp
+email=
 
 about=This plugin converts LAS point cloud data and GeoTIFF raster data into CSV format for analysis and data processing.
 
